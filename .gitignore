@@ -1,0 +1,22 @@
+# Dados brutos e arquivos grandes
+dados/raw/
+dados/raw_recuperados/
+*.zip
+
+# Resultados e modelos gerados
+resultados/
+resultados_smoke/
+validacao/
+*.joblib
+
+# Python / notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Ambiente local
+.venv/
+venv/
+.env
+
